@@ -80,7 +80,6 @@ E:\AI Lecture\Testing\Branch_Adminlte\Branch_Adminlte\bin\Microsoft.Owin.Securit
 E:\AI Lecture\Testing\Branch_Adminlte\Branch_Adminlte\obj\Debug\Branch_Adminlte.csprojResolveAssemblyReference.cache
 E:\AI Lecture\Testing\Branch_Adminlte\Branch_Adminlte\obj\Debug\Branch_Adminlte.dll
 E:\AI Lecture\Testing\Branch_Adminlte\Branch_Adminlte\obj\Debug\Branch_Adminlte.pdb
-E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\obj\Debug\Branch_Adminlte.csprojResolveAssemblyReference.cache
 E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\bin\ApplicationInsights.config
 E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\bin\roslyn\csc.exe
 E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -120,6 +119,7 @@ E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\bin\Microsoft.Owin.Security.G
 E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
 E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\bin\Microsoft.Owin.Security.OAuth.dll
 E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\bin\Microsoft.Owin.Security.Twitter.dll
+E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\bin\Microsoft.ReportViewer.WebForms.dll
 E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\bin\Microsoft.Web.Infrastructure.dll
 E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\bin\Newtonsoft.Json.dll
 E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\bin\Owin.dll
@@ -131,6 +131,7 @@ E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\bin\System.Web.WebPages.Deplo
 E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\bin\System.Web.WebPages.dll
 E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\bin\System.Web.WebPages.Razor.dll
 E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\bin\WebGrease.dll
+E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\bin\Microsoft.SqlServer.Types.dll
 E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\bin\Microsoft.AI.DependencyCollector.xml
 E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\bin\Microsoft.AI.ServerTelemetryChannel.xml
 E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\bin\Microsoft.AI.Web.xml
@@ -160,10 +161,6 @@ E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\bin\Microsoft.Owin.Security.O
 E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\bin\Microsoft.Owin.Security.Google.xml
 E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\bin\Microsoft.Owin.Security.Twitter.xml
 E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\obj\Debug\Branch_Adminlte.dll
-E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\obj\Debug\Branch_Adminlte.pdb
-E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\bin\Microsoft.ReportViewer.WebForms.dll
-E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\bin\Microsoft.SqlServer.Types.dll
 E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\bin\de\Microsoft.SqlServer.Types.resources.dll
 E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\bin\es\Microsoft.SqlServer.Types.resources.dll
 E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\bin\fr\Microsoft.SqlServer.Types.resources.dll
@@ -176,3 +173,6 @@ E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\bin\zh-Hans\Microsoft.SqlServ
 E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
 E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\obj\Debug\RdlCompile.cache
 E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\obj\Debug\RdlCompile.compiled
+E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\obj\Debug\Branch_Adminlte.dll
+E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\obj\Debug\Branch_Adminlte.pdb
+E:\AI Lecture\Data\Branch_Adminlte\Branch_Adminlte\obj\Debug\Branch_Adminlte.csprojResolveAssemblyReference.cache

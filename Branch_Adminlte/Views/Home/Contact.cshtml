@@ -1,28 +1,33 @@
 ﻿@{
     ViewBag.Title = "Contact";
 }
-@{
-    ViewBag.Title = "Name of the page";
-}
+
 
 <h3>@ViewBag.Message</h3>
 <div class="col-lg-8 py-4">
     <div class="info-box">
         @using (Html.BeginForm())
         {
-            <div class="form-group">
-                @Html.Label("Name")
-                @Html.TextBox("CustomerName", null, new { @class = "form-control", @style = "width:200px" })
-            </div>
-            <div class="form-group">
-                @Html.Label("Comment")
-                @Html.TextArea("CustomerComment", new { @class = "textarea", @id = "summernote" })
-            </div>
-            <div class="box-footer">
-                <button class="btn btn-primary" type="submit">Submit</button>
-            </div>
-        }
-    </div>
+            
+                    <div class="form-group">
+                        @Html.Label("Name")
+                        @Html.TextBox("CustomerName", null, new { @class = "form-control", @style = "width:200px" })
+                    </div>
+                    <div class="form-group">
+                        @Html.Label("Email")
+                        @Html.TextBox("CustomerName", null, new { @class = "form-control", @style = "width:200px" })
+                    </div>
+                    <div class="form-group">
+                        @Html.Label("Comment")
+                        @Html.TextArea("CustomerComment", new { @class = "textarea", @id = "summernote" })
+                    </div>
+                    <div class="box-footer">
+                        <button class="btn btn-primary" type="submit">Submit</button>
+                        <input type="hidden" name="_confirmation" value="Your form has been submmited" />
+                    </div>
+                
+                }
+</div>
 </div>
 @section scripts {
     <script>

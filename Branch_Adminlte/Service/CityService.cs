@@ -21,19 +21,7 @@ namespace Branch_Adminlte.Service
             return cities;
         }
 
-        public CityViewModel GetCityById(Guid id)
-        {
-            CityViewModel city = _context.Cities
-                .Where(s => s.Id == id)
-                .Select(s => new CityViewModel
-                {
-                    Id = s.Id,
-                    Name = s.Name
-
-                }).FirstOrDefault();
-
-            return city;
-        }
+       
         }
     
 }
