@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "ReportDatailReport";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>ReportDatailReport</h2>
+<div class="row">
+    <iframe id="iframeReportViewer" frameborder="0" width="1000" height="1000"
+             style="overflow:hidden" scrolling="no"></iframe>
+</div>
+@section scripts{
+    <script>
+        @if (Session["ReportData"] != null)
+        {
+            <text>ShowReport();</text>
+        }
+        function ShowReport(){
+            var url = "../Report/Viewer/BranchDetailReport.aspx";
+            var myframe = document.getElementById("iframeReportViewer");
+            if (myframe != null) {
+                if (myframe.src) {
+                    myframe.src = url;
+                }else if(myframe.contentWindow!=null||myframe.contentWindow.location!=null){
+                    myframe.contentWindow.location=url;
+                }else{
+                    myframe.setAttribute('src',url);
+                }
+            }
+        }
+    </script>
+    }
+
